@@ -1,38 +1,40 @@
-[
-    {
-        "image": "https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-        "event_name": "Baile de Formatura da Fulana",
-        "address": "Rua Delmira Candida Rodrigues da Cunha, 939",
-        "date": "31/08/2020",
-        "description": "Esta é uma observação qualquer.",
-        "tickets": [
+{ 
+   "events":[ 
+      { 
+         "image":"https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+         "event_name":"Baile de Formatura da Fulana",
+         "address":"Rua Delmira Candida Rodrigues da Cunha, 939",
+         "date":"31/08/2020",
+         "description":"Esta é uma observação qualquer.",
+         "tickets":[ 
             "1123",
             "fdsf3",
             "123ds1f"
-        ]
-    },
-    {
-        "image": "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-        "event_name": "Festa dos 1000 dias",
-        "address": "Rua Fulano de Tal, 1939",
-        "date": "20/04/2020",
-        "description": "Esta é uma outra observação qualquer.",
-        "tickets": [
+         ]
+      },
+      { 
+         "image":"https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+         "event_name":"Festa dos 1000 dias",
+         "address":"Rua Fulano de Tal, 1939",
+         "date":"20/04/2020",
+         "description":"Esta é uma outra observação qualquer.",
+         "tickets":[ 
             "dfsdfasdfasdfasdf",
             "32423432dfsdfds",
             "123dfdasf32Fs1f"
-        ]
-    },
-    {
-        "image": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "event_name": "Festa do primeiro dia",
-        "address": "Rua Fulano de Tal, 1939",
-        "date": "08/01/2020",
-        "description": "Esta é uma terceira observação qualquer.",
-        "tickets": [
+         ]
+      },
+      { 
+         "image":"https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+         "event_name":"Festa do primeiro dia",
+         "address":"Rua Fulano de Tal, 1939",
+         "date":"08/01/2020",
+         "description":"Esta é uma terceira observação qualquer.",
+         "tickets":[ 
             "GDBGDY87",
             "7698HDGF",
             "45DF54F"
-        ]
-    }
-]
+         ]
+      }
+   ]
+}
